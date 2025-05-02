@@ -1,0 +1,27 @@
+Variable,Meaning
+Patient_ID,Unique identifier for each patient
+State_Name,State in India where the patient is from
+Age,Age of the patient in years
+Gender,Gender of the patient (Male/Female)
+Diabetes,"Whether the patient has diabetes (1 = Yes, 0 = No)"
+Hypertension,"Whether the patient has high blood pressure (1 = Yes, 0 = No)"
+Obesity,"Whether the patient is obese (1 = Yes, 0 = No)"
+Smoking,"Whether the patient smokes (1 = Yes, 0 = No)"
+Alcohol_Consumption,"Whether the patient consumes alcohol (1 = Yes, 0 = No)"
+Physical_Activity,"Whether the patient engages in physical activity (1 = Yes, 0 = No)"
+Diet_Balance,Quality of the patient?s diet (higher value = better)
+Cholesterol,Cholesterol level of the patient (mg/dL)
+Triglyceride_Level,"Level of triglycerides (a type of fat) in the blood, measured in mg/dL"
+LDL_Level,"Level of Low-Density Lipoprotein (bad cholesterol) in the blood, measured in mg/dL"
+HDL_Level,"Level of High-Density Lipoprotein (good cholesterol) in the blood, measured in mg/dL"
+Systolic_BP,Systolic blood pressure (upper number)
+Diastolic_BP,Diastolic blood pressure (lower number)
+Air_Pollution_Exposure,"Exposure to polluted air (1 = High, 0 = Low)"
+Family_History,"Family history of heart disease (1 = Yes, 0 = No)"
+Stress_Level,"Self-reported stress level on a scale (e.g., 1 to 10)"
+Healthcare_Access,"Access to healthcare facilities (1 = Yes, 0 = No)"
+Heart_Attack_History,"Previous history of heart attack (1 = Yes, 0 = No)"
+Emergency_Response_Time,Average emergency response time in minutes
+Annual_Income,Annual income of the patient (in INR)
+Health_Insurance,"Whether the patient has health insurance (1 = Yes, 0 = No)"
+Heart_Attack_Risk,"Target variable: risk of heart attack (1 = At risk, 0 = Not at risk)"
